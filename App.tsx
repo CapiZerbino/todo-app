@@ -7,8 +7,8 @@
 
 import React from 'react';
 
-import {ErrorBoundary} from './app/features/ErrorBoundary';
-import {AppNavigator} from './app/navigation';
+import { ErrorBoundary } from './app/features/ErrorBoundary';
+import { AppNavigator } from './app/navigation';
 
 function App(): React.JSX.Element {
   return (

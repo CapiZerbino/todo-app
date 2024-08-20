@@ -1,8 +1,8 @@
-import { View } from 'react-native';
 import React from 'react';
+import { View } from 'react-native';
 
 const CreateTodoScreen = () => {
-    return (<View />);
+  return <View />;
 };
 CreateTodoScreen.displayName = 'CreateTodoScreen';
 export default CreateTodoScreen;

@@ -1,7 +1,8 @@
-import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import React from 'react';
-import { TodoListScreen } from '../todo-list';
+
 import { AccountScreen } from '../account';
+import { TodoListScreen } from '../todo-list';
 
 const Tab = createBottomTabNavigator();
 

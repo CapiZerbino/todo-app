@@ -1,9 +1,8 @@
-import { View } from 'react-native';
 import React from 'react';
-
+import { View } from 'react-native';
 
 const TodoListScreen = () => {
-    return <View />;
+  return <View />;
 };
 
 TodoListScreen.displayName = 'TodoListScreen';
